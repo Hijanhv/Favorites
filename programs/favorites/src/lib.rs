@@ -64,3 +64,4 @@ pub struct SetFavorites<'info> {
 
     pub system_program: Program<'info, System>,
 }
+// name of main was master in this project
